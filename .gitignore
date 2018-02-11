@@ -1,0 +1,7 @@
+/public/js
+/node_modules
+/target
+/yarn.lock
+/package-lock.json
+/.idea
+*.iml
